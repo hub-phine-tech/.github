@@ -26,4 +26,4 @@ Closes #
 
 - [ ] Code is tested and passes locally
 - [ ] Documentation is updated if needed
-- [ ] Follows code style and guidelines
+- [ ] Follows code style and guidelines [Lint, Guidelines and co will follow if not existing]
