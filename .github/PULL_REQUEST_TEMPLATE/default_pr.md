@@ -1,29 +1,4 @@
-## Summary
+# Info
 
-<!-- Provide a short summary of your changes -->
-
-## Changelog [KeepA](https://keepachangelog.com/)
-
-<!-- 
-Use Keepa-style tags to describe the type of change.
-Examples:
-[Added] for new features.
-[Changed] for changes in existing functionality.
-[Deprecated] for soon-to-be removed features.
-[Removed] for now removed features.
-[Fixed] for any bug fixes.
-[Security] in case of vulnerabilities.
--->
-
-- [ ] 
-
-## Related Issues
-
-<!-- Link any related issues here -->
-Closes #
-
-## Checklist
-
-- [ ] Code is tested and passes locally
-- [ ] Documentation is updated if needed
-- [ ] Follows code style and guidelines [Lint, Guidelines and co will follow if not existing]
+If we have multiple pull request we have to link it in the root ``pull_request_template.md``
+like this  [🚀 New Feature with KeepA style](?expand=1&template=default_pr.md) (check the plain Markdown view not the rendered one)
