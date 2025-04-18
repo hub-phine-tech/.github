@@ -15,12 +15,12 @@ Examples:
 [Security] in case of vulnerabilities.
 -->
 
-- [ ] 
-
+[]:
+-
 ## Related Issues
 
 <!-- Link any related issues here -->
-Closes #
+Closing: #
 
 ## Checklist
 
